@@ -7,3 +7,5 @@
 ## IPython.display
     > library used to show pandas dataframe tables more readable and visual appealing
 
+## Notes
+> utils.py and script_db.sql just for support or extra way to implement
